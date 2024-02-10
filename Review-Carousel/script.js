@@ -1,5 +1,4 @@
 let person_pic = document.getElementById("pics")
-let n
 let person1 = document.getElementById("person-1")
 let person2 = document.getElementById("person-2")
 let person3 = document.getElementById("person-3")
